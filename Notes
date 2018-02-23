@@ -1,0 +1,5 @@
+SubFramework refers to inner framework to be consumed by Umbrella Framework.
+TestingUmbrella is the sample app on how the Umbrella Framework to be used in your app. 
+
+Reference on how to create the Umbrella Framework is in this link: 
+https://medium.com/@bittudavis/how-to-create-an-umbrella-framework-in-swift-ca964d0a2345
